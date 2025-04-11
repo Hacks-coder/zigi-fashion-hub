@@ -9,10 +9,10 @@
     }
 
     const phoneDisplay = [
-        {productPhoto: "/phones/img1.jpg", productName: "Gold watch"},
-        {productPhoto: "/phones/img2.jpg", productName: "Hacks gold"},
-        {productPhoto: "/phones/img3.jpg", productName: "Palm rover"},
-        {productPhoto: "/phones/img4.jpg", productName: "Deem watch"},
+        {productPhoto: "/watch/img1.jpg", productName: "Gold watch"},
+        {productPhoto: "/watch/img2.jpg", productName: "Hacks gold"},
+        {productPhoto: "/watch/img3.jpg", productName: "Palm rover"},
+        {productPhoto: "/watch/img4.jpg", productName: "Deem watch"},
     ]
 </script>
 
