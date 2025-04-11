@@ -1,0 +1,37 @@
+@import 'tailwindcss';
+@plugin '@tailwindcss/forms';
+@plugin '@tailwindcss/typography';
+
+
+
+@theme {
+
+    /* colors */
+    --color-black: #000000;
+    --color-white: #FFFFFF;
+    --color-red: #880304;
+    --color-light-gray: #3B3B3B;
+    --color-dark-gray: #313133;
+
+
+    /* fonts */
+    --font-main: 'Inter Variable', sans-serif;
+    --font-title: 'Lexend Variable', sans-serif;
+
+    /* responsitivity */
+    --container-@3xs: 16rem;
+    --container-@2xs: 18rem;
+    --container-@xs: 20rem;
+    --container-@sm: 24rem;
+    --container-@md: 28rem;
+    --container-@lg: 32rem;
+    --container-@xl: 36rem;
+    --container-@2xl: 42rem;
+    --container-@3xl: 48rem;
+    --container-@4xl: 56rem;
+    --container-@5xl: 64rem;
+    --container-@6xl: 72rem;
+    --container-@7xl: 80rem;
+    --container-@8xl: 96rem;
+
+}
